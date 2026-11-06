@@ -1,1 +1,1 @@
-# Stock-Trader This is my first repository on GitHub!!!
+# This is my first repository on GitHub!!!
